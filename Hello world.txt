@@ -4,4 +4,4 @@ print("Hello;");
 print("Hello my dear friend;");
 print("Glad to see you;");
 
-some text;
+it's some text;
